@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meado\\Desktop\\InternshipApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|C:\\Users\\meado\\Desktop\\InternshipApp\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|solutionrelative:filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|C:\\Users\\meado\\Desktop\\InternshipApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|C:\\Users\\meado\\Desktop\\InternshipApp\\models\\crate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|solutionrelative:models\\crate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|C:\\Users\\meado\\Desktop\\InternshipApp\\inputparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|solutionrelative:inputparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|C:\\Users\\meado\\Desktop\\InternshipApp\\craneoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|solutionrelative:craneoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|c:\\users\\meado\\desktop\\internshipapp\\models\\movemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|solutionrelative:models\\movemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|C:\\Users\\meado\\Desktop\\InternshipApp\\stackreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886CEF15-D68A-4491-BEF3-9261D8523534}|InternshipApp.csproj|solutionrelative:stackreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveModel.cs",
+              "DocumentMoniker": "C:\\Users\\meado\\Desktop\\InternshipApp\\Models\\MoveModel.cs",
+              "RelativeDocumentMoniker": "Models\\MoveModel.cs",
+              "ToolTip": "C:\\Users\\meado\\Desktop\\InternshipApp\\Models\\MoveModel.cs",
+              "RelativeToolTip": "Models\\MoveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:37:44.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StackReader.cs",
+              "DocumentMoniker": "C:\\Users\\meado\\Desktop\\InternshipApp\\StackReader.cs",
+              "RelativeDocumentMoniker": "StackReader.cs",
+              "ToolTip": "C:\\Users\\meado\\Desktop\\InternshipApp\\StackReader.cs",
+              "RelativeToolTip": "StackReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:40:32.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crate.cs",
+              "DocumentMoniker": "C:\\Users\\meado\\Desktop\\InternshipApp\\Models\\Crate.cs",
+              "RelativeDocumentMoniker": "Models\\Crate.cs",
+              "ToolTip": "C:\\Users\\meado\\Desktop\\InternshipApp\\Models\\Crate.cs",
+              "RelativeToolTip": "Models\\Crate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:39:46.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CraneOperator.cs",
+              "DocumentMoniker": "C:\\Users\\meado\\Desktop\\InternshipApp\\CraneOperator.cs",
+              "RelativeDocumentMoniker": "CraneOperator.cs",
+              "ToolTip": "C:\\Users\\meado\\Desktop\\InternshipApp\\CraneOperator.cs",
+              "RelativeToolTip": "CraneOperator.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:38:25.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputParser.cs",
+              "DocumentMoniker": "C:\\Users\\meado\\Desktop\\InternshipApp\\InputParser.cs",
+              "RelativeDocumentMoniker": "InputParser.cs",
+              "ToolTip": "C:\\Users\\meado\\Desktop\\InternshipApp\\InputParser.cs",
+              "RelativeToolTip": "InputParser.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:36:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\meado\\Desktop\\InternshipApp\\FileReader.cs",
+              "RelativeDocumentMoniker": "FileReader.cs",
+              "ToolTip": "C:\\Users\\meado\\Desktop\\InternshipApp\\FileReader.cs",
+              "RelativeToolTip": "FileReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:35:37.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meado\\Desktop\\InternshipApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\meado\\Desktop\\InternshipApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:34:43.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

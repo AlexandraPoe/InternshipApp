@@ -1,0 +1,14 @@
+C:\Users\meado\Desktop\InternshipApp\bin\Debug\net8.0\InternshipApp.exe
+C:\Users\meado\Desktop\InternshipApp\bin\Debug\net8.0\InternshipApp.deps.json
+C:\Users\meado\Desktop\InternshipApp\bin\Debug\net8.0\InternshipApp.runtimeconfig.json
+C:\Users\meado\Desktop\InternshipApp\bin\Debug\net8.0\InternshipApp.dll
+C:\Users\meado\Desktop\InternshipApp\bin\Debug\net8.0\InternshipApp.pdb
+C:\Users\meado\Desktop\InternshipApp\obj\Debug\net8.0\InternshipApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meado\Desktop\InternshipApp\obj\Debug\net8.0\InternshipApp.AssemblyInfoInputs.cache
+C:\Users\meado\Desktop\InternshipApp\obj\Debug\net8.0\InternshipApp.AssemblyInfo.cs
+C:\Users\meado\Desktop\InternshipApp\obj\Debug\net8.0\InternshipApp.csproj.CoreCompileInputs.cache
+C:\Users\meado\Desktop\InternshipApp\obj\Debug\net8.0\InternshipApp.dll
+C:\Users\meado\Desktop\InternshipApp\obj\Debug\net8.0\refint\InternshipApp.dll
+C:\Users\meado\Desktop\InternshipApp\obj\Debug\net8.0\InternshipApp.pdb
+C:\Users\meado\Desktop\InternshipApp\obj\Debug\net8.0\InternshipApp.genruntimeconfig.cache
+C:\Users\meado\Desktop\InternshipApp\obj\Debug\net8.0\ref\InternshipApp.dll
